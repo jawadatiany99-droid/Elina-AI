@@ -1,0 +1,8 @@
+Hugging Face usage
+
+- This project uses Hugging Face Inference public endpoints by default.
+- Public endpoints have rate limits. For more capacity, create an HF account and generate an access token:
+  https://huggingface.co/settings/tokens
+- Simple method to provide token during development:
+  - Open web console and run: window.HF_TOKEN = 'hf_xxx';
+  - Or add native secure storage and set HF_TOKEN at app runtime.

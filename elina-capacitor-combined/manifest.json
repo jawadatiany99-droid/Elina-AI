@@ -1,0 +1,16 @@
+{
+  "short_name": "ELINA AI",
+  "name": "ELINA AI",
+  "description": "Photos and videos by AI",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0a0a1a",
+  "background_color": "#0a0a1a"
+}
